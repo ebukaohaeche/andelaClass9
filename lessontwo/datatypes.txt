@@ -11,8 +11,8 @@ NaN	------------------------boolean
 
 Right or Wrong Variable Name?
 year	-----------------------correct
-*64	-----------------------wrong
+*64	-----------------------incorrect
 _%ern   -----------------------correct
 value 	-----------------------correct
 salary 	-----------------------correct
-do	-----------------------wrong
+do	-----------------------incorrect
